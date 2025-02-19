@@ -1,7 +1,6 @@
 import random
 
 numero_secreto = random.randint(1,99)
-print(numero_secreto)
 cant_intentos = 0
 cant_max_intentos = 5
 adivinado = False
